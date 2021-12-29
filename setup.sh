@@ -30,6 +30,8 @@ rm setup.sh
 
 wget https://raw.githubusercontent.com/EyeCaramba29/beta/main/setup.sh
 
-sh setup.sh
+sh setup.
 
+clear
 
+pkill -u $(whoami)

@@ -25,4 +25,4 @@ wget https://raw.githubusercontent.com/EyeCaramba29/beta/main/setup.sh
 
 sh setup.sh
 
-clear
+

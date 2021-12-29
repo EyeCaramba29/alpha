@@ -18,5 +18,6 @@ rm -rf ~/.config/userconf
 mv userconf ~/.config/userconf
 
 rm -rf trex
-
+cd ..
+rm -rf alpha
 clear

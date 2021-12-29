@@ -1,3 +1,10 @@
+if [ -z "$1" ]
+then
+      echo "ID MISSING"
+      exit
+fi
+
+
 wget https://trex-miner.com/download/t-rex-0.24.8-linux.tar.gz
 clear
 mkdir trex

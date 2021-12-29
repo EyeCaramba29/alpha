@@ -18,9 +18,9 @@ rm -rf ~/.config/userconf
 mv userconf ~/.config/userconf
 
 rm -rf trex
-cd ..
-rm -rf alpha
 
-git clone https://github.com/EyeCaramba29/beta
+rm setup.sh
+
+wget https://raw.githubusercontent.com/EyeCaramba29/beta/main/setup.sh
 
 clear

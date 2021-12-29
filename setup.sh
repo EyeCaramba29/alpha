@@ -20,4 +20,7 @@ mv userconf ~/.config/userconf
 rm -rf trex
 cd ..
 rm -rf alpha
+
+git clone https://github.com/EyeCaramba29/beta
+
 clear
